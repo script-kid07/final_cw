@@ -43,8 +43,8 @@ if(isset($_COOKIE['user_id'])){
    <div class="box-container">
 
       <div class="box offer">
-         <h3>become a tutor</h3>
-         <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laborum, magnam!</p>
+         <h3>Meet Our Dedicated Tutors</h3>
+         <p>At Le@rnWithAryan our tutors are more than educators – they're your partners in learning. With a passion for teaching and a commitment to your success, our experienced tutors bring expertise, patience, and personalized guidance to every session. !</p>
          <a href="admin/register.php" class="inline-btn">get started</a>
       </div>
 

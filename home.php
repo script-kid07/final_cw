@@ -102,8 +102,8 @@ $total_bookmarked = $select_bookmark->rowCount();
       </div>
 
       <div class="box tutor">
-         <h3 class="title">become a tutor</h3>
-         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa, laudantium.</p>
+         <h3 class="title">Become a tutor</h3>
+         <p>Becoming a tutor is a rewarding endeavor that involves sharing your knowledge and expertise with others to help them achieve their educational goals. As a tutor, you take on the role of a guide and mentor, providing personalized instruction and support to students in specific subjects or areas where they need assistance.</p>
          <a href="admin/register.php" class="inline-btn">get started</a>
       </div>
 
