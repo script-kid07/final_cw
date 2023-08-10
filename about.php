@@ -52,7 +52,7 @@ if(isset($_COOKIE['user_id'])){
       <div class="box">
          <i class="fas fa-graduation-cap"></i>
          <div>
-            <h3>+1k</h3>
+            <h3>+587</h3>
             <span>online courses</span>
          </div>
       </div>
@@ -60,7 +60,7 @@ if(isset($_COOKIE['user_id'])){
       <div class="box">
          <i class="fas fa-user-graduate"></i>
          <div>
-            <h3>+25k</h3>
+            <h3>+12k</h3>
             <span>brilliants students</span>
          </div>
       </div>
@@ -68,7 +68,7 @@ if(isset($_COOKIE['user_id'])){
       <div class="box">
          <i class="fas fa-chalkboard-user"></i>
          <div>
-            <h3>+5k</h3>
+            <h3>   7</h3>
             <span>expert teachers</span>
          </div>
       </div>
@@ -96,11 +96,11 @@ if(isset($_COOKIE['user_id'])){
    <div class="box-container">
 
       <div class="box">
-         <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illo fugiat, quaerat voluptate odio consectetur assumenda fugit maxime unde at ex?</p>
+         <p>Fav learning platform</p>
          <div class="user">
             <img src="images/pic-2.jpg" alt="">
             <div>
-               <h3>john deo</h3>
+               <h3>Milan Raj Yadav</h3>
                <div class="stars">
                   <i class="fas fa-star"></i>
                   <i class="fas fa-star"></i>
@@ -113,11 +113,11 @@ if(isset($_COOKIE['user_id'])){
       </div>
 
       <div class="box">
-         <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illo fugiat, quaerat voluptate odio consectetur assumenda fugit maxime unde at ex?</p>
+         <p>Fav learning platform</p>
          <div class="user">
             <img src="images/pic-3.jpg" alt="">
             <div>
-               <h3>john deo</h3>
+               <h3>Bishal Timsina</h3>
                <div class="stars">
                   <i class="fas fa-star"></i>
                   <i class="fas fa-star"></i>
@@ -129,63 +129,14 @@ if(isset($_COOKIE['user_id'])){
          </div>
       </div>
 
-      <div class="box">
-         <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illo fugiat, quaerat voluptate odio consectetur assumenda fugit maxime unde at ex?</p>
-         <div class="user">
-            <img src="images/pic-4.jpg" alt="">
-            <div>
-               <h3>john deo</h3>
-               <div class="stars">
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star-half-alt"></i>
-               </div>
-            </div>
-         </div>
-      </div>
+   
 
       <div class="box">
-         <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illo fugiat, quaerat voluptate odio consectetur assumenda fugit maxime unde at ex?</p>
-         <div class="user">
-            <img src="images/pic-5.jpg" alt="">
-            <div>
-               <h3>john deo</h3>
-               <div class="stars">
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star-half-alt"></i>
-               </div>
-            </div>
-         </div>
-      </div>
-
-      <div class="box">
-         <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illo fugiat, quaerat voluptate odio consectetur assumenda fugit maxime unde at ex?</p>
-         <div class="user">
-            <img src="images/pic-6.jpg" alt="">
-            <div>
-               <h3>john deo</h3>
-               <div class="stars">
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star-half-alt"></i>
-               </div>
-            </div>
-         </div>
-      </div>
-
-      <div class="box">
-         <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illo fugiat, quaerat voluptate odio consectetur assumenda fugit maxime unde at ex?</p>
+         <p>Favorite person favorite learning</p>
          <div class="user">
             <img src="images/pic-7.jpg" alt="">
             <div>
-               <h3>john deo</h3>
+               <h3>Sirjana Bohora</h3>
                <div class="stars">
                   <i class="fas fa-star"></i>
                   <i class="fas fa-star"></i>

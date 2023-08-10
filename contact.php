@@ -79,7 +79,8 @@ if(isset($_POST['submit'])){
       <div class="box">
          <i class="fas fa-phone"></i>
          <h3>phone number</h3>
-         <a href="tel:9818496696">9818496696</a>
+         <a href="tel:+977 9818496696">+977 9818496696</a>
+         <a href="tel:+977 9741833778">+977 9741833778</a>
       </div>
 
       <div class="box">
@@ -92,7 +93,7 @@ if(isset($_POST['submit'])){
       <div class="box">
          <i class="fas fa-map-marker-alt"></i>
          <h3>office address</h3>
-         <a href="#">Softwarica Block-A, Dillibazar, Maitidevi-32600</a>
+         <a href="https://goo.gl/maps/ebVzrEqADDsmr7sZ8">Softwarica Block-A, Dillibazar, Maitidevi-32600</a>
       </div>
 
 

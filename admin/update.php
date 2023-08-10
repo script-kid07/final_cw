@@ -144,7 +144,7 @@ if(isset($_POST['submit'])){
                <option value="photographer">photographer</option>
             </select>
             <p>your email </p>
-            <input type="email" name="email" placeholder="<?= $fetch_profile['email']; ?>" maxlength="20"  class="box">
+            <input type="email" name="email" placeholder="<?= $fetch_profile['email']; ?>" maxlength="50"  class="box">
          </div>
          <div class="col">
             <p>old password :</p>

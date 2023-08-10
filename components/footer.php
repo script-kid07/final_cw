@@ -1,5 +1,5 @@
 <footer class="footer">
 
-   &copy; copyright @ <?= date('Y'); ?> by <span>mr. web designer</span> | all rights reserved!
+   &copy; copyright @ <?= date('Y'); ?> by <span>MR. ARYAN KUNWAR</span> | all rights reserved!
 
 </footer>
